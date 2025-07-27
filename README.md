@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vivek5200&label=Profile%20views&color=0e75b6&style=flat" alt="vivek5200" />
 </p>
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=Hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?logo=Hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
 [![An image of @vivek5200's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek5200)](https://holopin.io/@vivek5200)
 
 - 🌱 I’m currently learning **Gdal(python library), Open Mp (C++ library)**
