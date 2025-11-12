@@ -22,16 +22,16 @@
 
 ## 🚀 About Me
 
-```javascript
-const vivek = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    currentFocus: ["GDAL (Python library)", "OpenMP (C++ library)"],
-    askMeAbout: ["React", "MongoDB", "Express.js", "Node.js", "Redux", "Redis", "MySQL", "JavaScript", "HTML", "Tailwind CSS"],
-    funFact: "When I'm not coding, I'm clutching rounds in Valorant! 🎮",
-    reachMe: "bendrevivek0@gmail.com"
-};
-```
+<div align="left">
+
+🌍 **Location:** India 🇮🇳  
+💼 **Role:** Full Stack Developer  
+🔭 **Current Focus:** GDAL (Python library) • OpenMP (C++ library)  
+💡 **Ask Me About:** React • MongoDB • Express.js • Node.js • Redux • Redis • MySQL • JavaScript • HTML • Tailwind CSS  
+🎮 **Fun Fact:** When I'm not coding, I'm clutching rounds in Valorant!  
+📫 **Reach Me:** [bendrevivek0@gmail.com](mailto:bendrevivek0@gmail.com)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
