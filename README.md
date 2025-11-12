@@ -5,7 +5,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek5200&label=Profile%20views&color=0e75b6&style=flat" alt="vivek5200" />
-  <img src="https://img.shields.io/github/followers/vivek5200?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://github.com/vivek5200?tab=followers">
+    <img src="https://img.shields.io/github/followers/vivek5200?label=Followers&style=flat&logo=github&color=blue" alt="GitHub Followers">
+  </a>
 </div>
 
 <br>
@@ -31,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/vivek-bendre" target="_blank">
