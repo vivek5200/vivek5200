@@ -1,8 +1,3 @@
-<div align="center">
-  
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/vivek5200)
-
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek+Bendre;Full+Stack+Developer+%7C+Problem+Solver;Building+Amazing+Web+Applications" alt="Typing SVG" />
@@ -15,16 +10,9 @@
 
 <br>
 
-<div align="center">
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?logo=Hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
-[![An image of @vivek5200's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek5200)](https://holopin.io/@vivek5200)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -38,6 +26,8 @@
 📫 **Reach Me:** [bendrevivek0@gmail.com](mailto:bendrevivek0@gmail.com)
 
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -154,6 +144,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vivek5200/vivek5200/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
